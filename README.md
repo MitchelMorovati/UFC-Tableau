@@ -12,3 +12,4 @@ The data preparation process involved consolidating information from multiple fi
 **Future Work**
 While the current iteration of the application remains functional, there are opportunities for future enhancements. With the availability of data for subsequent years, such as 2024, there is potential to revisit the analysis and visualization to assess if similar insights persist or if there have been significant shifts in the UFC "meta." Continual refinement and adaptation of the project will ensure its relevance and utility in providing valuable insights to UFC enthusiasts.
 
+https://public.tableau.com/app/profile/mitchel.morovati/viz/DecodingtheAnatomyofaUFCWinner/DecodingtheAnatomyofaUFCWinner
